@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Spring/spring-framework-5.3.9/Lib2/spring-aop-5.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Spring/spring-framework-5.3.9/Lib2/spring-aspects-5.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Spring/spring-framework-5.3.9/Lib2/spring-beans-5.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Spring/spring-framework-5.3.9/Lib2/spring-context-5.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Spring/spring-framework-5.3.9/Lib2/spring-context-indexer-5.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Spring/spring-framework-5.3.9/Lib2/spring-context-support-5.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Spring/spring-framework-5.3.9/Lib2/spring-core-5.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Spring/spring-framework-5.3.9/Lib2/spring-expression-5.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Spring/spring-framework-5.3.9/Lib2/spring-instrument-5.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Spring/spring-framework-5.3.9/Lib2/spring-jcl-5.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Spring/spring-framework-5.3.9/Lib2/spring-jdbc-5.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Spring/spring-framework-5.3.9/Lib2/spring-jms-5.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Spring/spring-framework-5.3.9/Lib2/spring-messaging-5.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Spring/spring-framework-5.3.9/Lib2/spring-orm-5.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Spring/spring-framework-5.3.9/Lib2/spring-oxm-5.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Spring/spring-framework-5.3.9/Lib2/spring-r2dbc-5.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Spring/spring-framework-5.3.9/Lib2/spring-test-5.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Spring/spring-framework-5.3.9/Lib2/spring-tx-5.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Spring/spring-framework-5.3.9/Lib2/spring-web-5.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Spring/spring-framework-5.3.9/Lib2/spring-webflux-5.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Spring/spring-framework-5.3.9/Lib2/spring-webmvc-5.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Spring/spring-framework-5.3.9/Lib2/spring-websocket-5.3.9.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
